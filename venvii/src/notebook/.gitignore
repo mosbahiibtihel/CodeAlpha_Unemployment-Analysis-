@@ -1,0 +1,38 @@
+# Virtual Environment - IGNORE ENTIRE VENVII FOLDER!
+venvii/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.Unemployment_Analysis.ipynb_checkpoints/
+
+# Data files 
+*.xlsx
+*.xls
+*.data
+src/data/
+data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific - pyvenv.cfg (part of venv)
+src/pyvenv.cfg
